@@ -51,16 +51,6 @@ The database contains five main tables:
 - Foreign Keys
 - Subqueries
 
-## 📊 Business Questions
-
-1. Which products are low in stock?
-2. Which products generate the highest revenue?
-3. Which categories generate the most revenue?
-4. Which customers spend the most?
-5. Who are the high-value customers?
-6. Which products are best-selling?
-7. What is the total revenue?
-
 ## ⭐ High-Value Customer Analysis
 
 Customers spending more than ₹50,000 on completed orders
@@ -68,21 +58,17 @@ are classified as high-value customers.
 
 ## 📸 Project Screenshots
 
-### Database Schema
-
-![Database Schema](Screenshots/Database_Schema.png)
-
 ### Sales & Revenue Analysis
 
-![Sales Analysis](Screenshots/Sales_Revenue_Analysis.png)
+![Sales Analysis](https://github.com/Dixitshristi/retail-store-inventory-sales-sql/blob/main/Sales_Revenue_Analysis.png)
 
 ### Low Stock Analysis
 
-![Low Stock](Screenshots/Low_Stock_Analysis.png)
+![Low Stock](https://github.com/Dixitshristi/retail-store-inventory-sales-sql/blob/main/Low_Stock_Analysis.png)
 
 ### High-Value Customers
 
-![High Value Customers](Screenshots/High_Value_Customers.png)
+![High Value Customers](https://github.com/Dixitshristi/retail-store-inventory-sales-sql/blob/main/High_Value_Customers.png)
 
 ## 🧰 Tools Used
 
