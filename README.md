@@ -58,6 +58,9 @@ are classified as high-value customers.
 
 ## 📸 Project Screenshots
 
+### Database Schema
+![Database Schema](https://github.com/Dixitshristi/retail-store-inventory-sales-sql/blob/main/Database%20Schema.png)
+
 ### Sales & Revenue Analysis
 
 ![Sales Analysis](https://github.com/Dixitshristi/retail-store-inventory-sales-sql/blob/main/Sales_Revenue_Analysis.png)
